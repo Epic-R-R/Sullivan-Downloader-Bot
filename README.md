@@ -1,1 +1,1 @@
-# Sullivan-Downloader-Bot
+# Sullivan Downloader Bot
